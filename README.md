@@ -2,24 +2,6 @@
 
 <h1 align="center">Hi there, I'm Onur Kayakiran 👋</h1>
 
-<p align="center">
-  <a href="https://github.com/onurkayakiran">
-    <img src="https://komarev.com/ghpvc/?username=onurkayakiran&label=Profile%20Views&style=flat" alt="profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/onur-kayakiran/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:onur@kayakiran.net">
-    <img src="https://img.shields.io/badge/Email-onur%40kayakiran.net-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kayakiran.net">
-    <img src="https://img.shields.io/badge/Website-%F0%9F%8C%90-222" />
-  </a>
-  <a href="https://x.com/onurkayakiran">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## ✨ About Me
@@ -61,8 +43,14 @@
 - 💌 Email: [onur@kayakiran.net](mailto:onur@kayakiran.net)  
 - 💼 LinkedIn: [linkedin.com/in/onur-kayakiran](https://www.linkedin.com/in/onur-kayakiran/)  
 - 🐦 Twitter/X: [@onurkayakiran](https://x.com/onurkayakiran)  
-- 🌐 Portfolio: [kayakiran.net](https://kayakiran.net)  
+- 🌐 Website: [kayakiran.net](https://kayakiran.net)  
 
 <p align="center">
   <i>Thanks for stopping by — let’s collaborate and build something amazing! 🚀</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/onurkayakiran">
+    <img src="https://komarev.com/ghpvc/?username=onurkayakiran&label=Profile%20Views&style=flat" alt="profile views" />
+  </a>
 </p>
